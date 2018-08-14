@@ -48,12 +48,10 @@ h1{
     
 }
 
-.container{
-	width: 80%;
-	margin: auto;
-}
 
 .cards{
+	width: 80%;
+	margin: auto;
     margin-top: 40px;
     margin-bottom: 40px;
 	display: flex;
