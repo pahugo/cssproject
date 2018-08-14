@@ -1,12 +1,18 @@
-.avatar_large {
-  width:200px;
+.avatar_cards {
+  width:160px;
   border-radius: 50%;
+  margin-top: -100px;
+  box-shadow: 0 4px 8px 0 rgba(2,2,2,0.2);
+}
 
+.avatar_cards:hover {
+box-shadow: 0 8px 16px 0 rgba(2,2,2,0.4);
 }
 
 .avatar_small {
-  width:50px;
+  width:30px;
   border-radius: 50%;
 
 }
+
 
