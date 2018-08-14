@@ -1,0 +1,36 @@
+.card {
+    box-shadow: 0 4px 8px 0 rgba(2,2,2,0.2);
+    transition: 0.3s;
+    border-radius: 8px;
+    background-color: #FAFAFA;
+    width: 320px;
+    padding: 20px, 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 5px;
+}
+
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.4);
+}
+
+
+.card-name {
+/*    margin: 10px;*/
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 1.8em;
+
+    
+}
+
+.card-description {
+	/*margin: 5px;*/
+	margin-top:20px;
+	font-size: 1.4em;
+	text-align: center;
+}
+
+
